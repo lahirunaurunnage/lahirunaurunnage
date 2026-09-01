@@ -1,57 +1,60 @@
  <div align="center">
-  <h1>Hi there 👋, I'm Lahiru Madusanka Naurunnage!</h1>
-  <h3>Full-Stack Developer | Software Engineer</h3>
-  <p>I build scalable, modern web applications with a focus on great user experiences and robust architectures.</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=180&section=header&text=Lahiru%20Madusanka%20Naurunnage&fontSize=40&fontColor=fff&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20&%20System%20Architect&descSize=16&descAlignY=62" width="100%" />
+
+  <p>
+    <a href="mailto:lahiru.naurunnage@gmail.com"><img src="https://img.shields.io/badge/Email-lahiru.naurunnage%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/madusanka-naurunnage" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://github.com/lahiranurunnage" target="_blank"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  </p>
 </div>
 
 ---
 
-## 🚀 Featured Project: Taburio POS Platform
-> **An Enterprise-Grade Restaurant POS & SaaS Management System**
-
-I designed and developed **Taburio**, a complete end-to-end POS and restaurant management ecosystem. This project demonstrates my ability to handle complex system architectures, payment gateways, and real-time database syncing.
-
-### 🌟 Key Highlights & Features:
-* **Smart Auth & Provisioning:** Secure authentication via **Supabase**, featuring automatic store database provisioning (`owner_id` mapping) upon successful user registration.
-* **SaaS Subscription Workflow:** Implemented a tiered subscription model (Free, Pro, Enterprise) with automated payment capturing and instant database syncing using the **PayPal SDK**.
-* **Dual Interface System:** Engineered a lightning-fast Work Mode (Cashier POS) and a secure System Mode (Admin Dashboard).
-* **Dynamic QR Code Generation:** Customers can scan auto-generated table QR codes to order directly from their smartphones.
-* **Real-time Operations:** Live state hydration for Kitchen Display Systems (KDS), Table Inventory, and Menu Management.
-* **Localization:** Fully integrated bilingual support (English & Japanese).
-
-**🛠️ Built With:** 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+## 👨‍💻 Professional Summary
+> Highly motivated **Full-Stack Software Engineer** with extensive hands-on experience in architecting, developing, and deploying robust, scalable, and secure multi-tenant SaaS platforms and enterprise applications. Adept at handling complex business logic, database design, payment gateways, and real-time operational workflows.
 
 ---
 
-## 💻 Tech Stack & Tools
+## 🏛️ Featured Enterprise Project: Taburio POS Ecosystem
+> **An End-to-End Multi-Tenant Restaurant POS & SaaS Management Solution**
+
+**Taburio** is an enterprise-grade production-ready ecosystem built to tackle heavy transactional throughput, automated tenant provisioning, and real-time kitchen operations.
+
+### ⚙️ Core Architecture & Technical Implementation:
+* **Multi-Tenant Data Isolation (Supabase RLS):** Engineered strict Row-Level Security (RLS) database policies to guarantee complete data security and tenant segregation. Automated SQL hooks bind new users instantly to unique store slugs.
+* **SaaS Subscription & Billing Engine:** Integrated the **PayPal REST API (`@paypal/react-paypal-js`)** for secure payment authorization, dynamic plan upgrades (Free, Pro, Enterprise), and instant database synchronization.
+* **Dual Operational Modes:**
+  * *System Mode (Admin Dashboard):* Comprehensive control center for financial analytics, inventory thresholds, staff role management, and bilingual localization (English / Japanese).
+  * *Work Mode (Cashier POS):* High-velocity checkout counter optimized for rapid order processing, item adjustments, and immediate settlement.
+* **Dynamic Customer QR Ordering:** Automated generation of unique table QR codes that route patrons directly to a mobile-optimized self-service menu linked to real-time kitchen queues.
+* **Real-time Kitchen Display System (KDS):** Instant state synchronization tracking dish lifecycles from order submission to preparation and fulfillment.
+
+### 🛠️ Tech Stack & Tooling:
+* **Frontend:** Next.js (App Router), React.js, TypeScript, Tailwind CSS, Lucide Icons.
+* **Backend & Database:** Supabase (PostgreSQL, Realtime Subscriptions, RLS, Auth).
+* **Payment Gateway:** PayPal SDK & Webhook Verification.
+* **Version Control & DevOps:** Git, GitHub, Vercel, Postman.
+
+---
+
+## 💻 Tech Stack & Ecosystem
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,supabase,firebase,git,github,vscode,figma" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,tailwind,supabase,postgresql,git,github,vscode,figma,postman" />
 </p>
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Analytics & Metrics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lahiranurunnage&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lahiranurunnage&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lahiranurunnage&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lahiranurunnage&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Let's Connect & Build Together
 
-- 📧 **Email:** [lahiru.naurunnage@gmail.com](mailto:lahiru.naurunnage@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile](#) *(Update this link)*
-- 🌐 **Portfolio/Live App:** [Link to Taburio Live Demo](#) *(Update this link)*
-
-<p align="center">
-  <i>"Writing code that solves real-world problems."</i>
-</p>
+-
