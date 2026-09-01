@@ -1,8 +1,9 @@
  <div align="center">
 
-<!-- Elite High-Contrast Header Section -->
-<h1>👋 Hi, I'm Lahiru Madusanka Naurunnage</h1>
-<h3><strong>Full-Stack Software Engineer & Industrial Automation Architect</strong></h3>
+<!-- Elite Glowing Header Banner -->
+<a href="https://github.com/lahirunaurunnage">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,4,20,30&height=180&section=header&text=Lahiru%20Madusanka&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20&%20Industrial%20Automation%20Architect&descSize=16&descAlignY=62" width="100%" />
+</a>
 
 <p>
   <a href="https://linkedin.com/in/madusanka-naurunnage"><img src="https://img.shields.io/badge/🚀_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
