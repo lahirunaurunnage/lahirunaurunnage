@@ -1,3 +1,4 @@
+
  <div align="center">
 
 <!-- Elite Glowing Header Banner -->
@@ -94,10 +95,13 @@ Results-driven <b>Full-Stack Software Engineer</b> and <b>Technical Director</b>
 
 ---
 
-## 🎓 Education & Credentials
+## 🎓 Education, Credentials & Language Proficiency
 
 * **BSc (Hons) in Software Engineering** — Cardiff Metropolitan University (ICBT Campus, Sri Lanka)[cite: 3]
 * **Higher National Diploma in Computing & Software Development** — ICBT Campus, Sri Lanka[cite: 3]
+* **Japanese Language Proficiency:** 
+  * Completed **JLPT N5** Certification (3-Month Intensive Course)
+  * Registered & Preparing for **JLPT N4 (December 2026)** via **Kashikoi Japanese Center** *(ISO Certified Institute)*
 
 ---
 
