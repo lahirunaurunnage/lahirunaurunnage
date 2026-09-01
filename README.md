@@ -61,13 +61,13 @@ Results-driven <b>Full-Stack Software Engineer</b> and <b>Technical Director</b>
 
 ### 📱 **1. Taburio POS Ecosystem** *(Cloud-Native Multi-Tenant SaaS Platform)*
 *An end-to-end production-grade restaurant POS and enterprise SaaS solution engineered for heavy transactional loads[cite: 3].*
-* 🔗 **Platform Links:** [Live App (https://www.taburio.app)](https://www.taburio.app) | 📚 [Official Documentation](https://www.taburio.app/docs)
+* 🔗 **Platform Links:** [Live App](https://www.taburio.app) | 📚 [Official Documentation](https://www.taburio.app/docs)
 * **Multi-Tenant Data Security:** Implemented strict **Row-Level Security (RLS)** policies in PostgreSQL/Supabase, guaranteeing absolute data isolation across store tenants[cite: 3].
 * **Payment & Subscriptions:** Integrated **PayPal REST API** for automated checkouts, dynamic subscription tier upgrades (Free, Pro, Enterprise), and instant database hooks[cite: 3].
 * **Localization:** Developed a robust bilingual user interface supporting both **English and Japanese** operational modes[cite: 3].
-* 💻 **Dashboard & Architecture Preview:**
+* 💻 **Live Dashboard Preview (Tables & KDS Management):**
   <br>
-  <a href="https://www.taburio.app"><img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=800&q=80" alt="Taburio SaaS Dashboard" width="100%" style="border-radius: 8px;" /></a>
+  <a href="https://www.taburio.app"><img src="https://raw.githubusercontent.com/lahirunaurunnage/lahirunaurunnage/main/image_d3f16a.png" alt="Taburio SaaS Live Dashboard" width="100%" style="border-radius: 8px;" /></a>
 
 ### 🏭 **2. Industrial Automation & OMRON PLC Integration** *(Smart Factory Solutions)*
 * Developed robust factory automation infrastructure utilizing **OMRON PLCs**, coupled with customized SDK tooling for real-time machine telemetry, control loops, and diagnostics.
