@@ -1,11 +1,13 @@
  <div align="center">
 
-# 👋 Hi, I'm Lahiru Madusanka Naurunnage
-### **Full-Stack Software Engineer & Industrial Automation Architect**
+<!-- Luminous Header Banner with Next.js Glowing Effect -->
+<a href="https://github.com/lahirunaurunnage">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,4,20,30&height=180&section=header&text=Lahiru%20Madusanka&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20&%20Industrial%20Automation%20Architect&descSize=16&descAlignY=62" width="100%" />
+</a>
 
-[![Portfolio](https://img.shields.io/badge/🚀_Explore_Portfolio-Connect-1A365D?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/madusanka-naurunnage)
-[![Email](https://img.shields.io/badge/✉️_Email_Me-lahirunaurunnage@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:lahirunaurunnage@gmail.com)
-[![Location](https://img.shields.io/badge/📍_Location-Kamburupitiya,_Sri_Lanka-blue?style=for-the-badge)]()
+[![Portfolio](https://img.shields.io/badge/🚀_Connect_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/madusanka-naurunnage)
+[![Email](https://img.shields.io/badge/✉️_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lahirunaurunnage@gmail.com)
+[![Location](https://img.shields.io/badge/📍_Location-Kamburupitiya,_Sri_Lanka-1A365D?style=for-the-badge)]()
 
 </div>
 
